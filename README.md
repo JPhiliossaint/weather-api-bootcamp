@@ -1,22 +1,15 @@
-# 🌦 Project: Weather API
+![weatherapi](https://user-images.githubusercontent.com/102938926/171502108-b0d2ae56-71db-494f-aeea-238806c0d37a.gif)
 
-### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
+# Weather API: <a target="_blank" href="https://weather-api-jamesphi.netlify.app/">Visit Here</a>
+<img src="complexapi2.gif" width="100%" alt="Travel App"/>
 
-### How to submit your code for review:
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=%7C&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=%7C&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=%7C&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+Used a weather API to tell users the weather of based on the city the users input.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Optimizations
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+This one works pretty cleanly but I could include more infromationr egarding the weather that is directly pulled from the JSON.
+
+## Lessons Learned:
+
+Strengthened familiarity with APIs and fetching JSON and parsing it. Reinforced the Separation of Concerns. 
